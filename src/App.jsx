@@ -5,9 +5,9 @@ import Logo from "./assets/logo.png";
 function App() {
   return (
     <>
-      <div className="h-screen items-center space-y-4 roboto-meidium">
+      <div className="h-screen items-center  roboto-meidium">
         <Card>
-          <div className="flex-col items-center space-y-4 ">
+          <div className="grid items-center gap-2  ">
             <div className="flex items-center justify-center">
               <img
                 className="rounded items-center shadow-lg "
@@ -17,7 +17,7 @@ function App() {
               />
             </div>
             <div className="flex items-center justify-center h-full">
-              <h1 className="text-4xl font-bold text-center">
+              <h1 className="text-4xl font-bold text-center mb-3">
                 Selamat Datang di Portal Kota Tanggerang
               </h1>
             </div>
