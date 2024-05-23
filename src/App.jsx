@@ -18,11 +18,8 @@ function App() {
                 />
               </div>
               <div className="flex items-center justify-center h-full">
-                <h1
-                  style={{ fontFamily: "Roboto, sans-serif" }}
-                  className="text-4xl font-bold text-center mb-3"
-                >
-                  sistem informasi kelurahan sudimara barat
+                <h1 className="text-4xl font-bold text-center mb-3 ">
+                  Sistem Informasi Kelurahan Sudimara Barat
                 </h1>
               </div>
               <Button href="https://www.tangerangkota.go.id/" target="_blank">
@@ -47,7 +44,7 @@ function App() {
                 SobatDukcapil
               </Button>
               <Button href="https://play.google.com/store/apps/details?id=id.go.tangerangkota.tangeranglive&pcampaignid=web_share">
-                Aplikasi Tanggaerang live
+                Aplikasi Tanggarang live
               </Button>
               <Button href="https://play.google.com/store/apps/details?id=go.id.tangerangkota.tangerangayo&pcampaignid=web_share">
                 Aplikasi Tanggerang Ayo
