@@ -18,7 +18,7 @@ function App() {
               />
             </div>
             <div className="flex items-center justify-center h-full">
-              <h1 className="text-4xl font-bold text-center mb-3 ">
+              <h1 className="text-4xl font-bold text-center my-3 ">
                 Sistem Informasi Kelurahan Sudimara Barat
               </h1>
             </div>
@@ -69,7 +69,7 @@ function App() {
               Aplikasi Identitas Kependudukan Digital
             </Button>
             <Button
-              className="bg-blue-800 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-2xl shadow-2xl"
+              className="bg-blue-800 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-2xl shadow-2xl mb-4"
               href="https://docs.google.com/forms/d/1k-zbF4wtr3LYFzwEm3rmAeFJZdon7irkR3eRCzX1pcY/viewform?edit_requested=true"
               target="_blank"
             >
