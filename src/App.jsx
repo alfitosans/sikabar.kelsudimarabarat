@@ -6,13 +6,13 @@ import BackgroundImage from "./assets/bg-image.png";
 function App() {
   return (
     <>
-      <div className="background-container"></div>
+      <div className="background-container h-screen"></div>
       <div className="overlay"></div>
-      <div className="h-screen flex items-center justify-center roboto-medium content mx-5 my-5">
+      <div className=" flex items-center justify-center roboto-medium content mx-5 my-5">
         <div className="grid items-center gap-2">
           <div className="flex items-center justify-center">
             <img
-              className="rounded items-center shadow-lg mt-5 pt-5"
+              className="rounded items-center "
               src={Logo}
               width={200}
               alt="Bila"
