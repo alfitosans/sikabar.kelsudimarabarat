@@ -20,7 +20,7 @@ function App() {
           </div>
           <div className="flex items-center justify-center h-full">
             <h1 className="text-4xl font-bold text-center my-3">
-              Sistem Informasi Kelurahan Sudimara Barat
+              SISTEM INFORMASI KELUAHAN SUDIMARA BARAT
             </h1>
           </div>
           <Button
@@ -28,53 +28,69 @@ function App() {
             href="https://www.tangerangkota.go.id/"
             target="_blank"
           >
-            Website Kota Tangerang
+            WEBSITE KOTA TANGGERANG
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
             href="https://kec-tangerang.tangerangkota.go.id/layanan"
             target="_blank"
           >
-            Website Kecamatan Ciledug
+            WEBSITE KECAMATAN CILEDUG
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
             href="https://sites.google.com/view/kelurahansudimarabarat/profil/tugas-dan-fungsi"
             target="_blank"
           >
-            Kelurahan Sudimara Barat
+            KELUARAHAN SUDIMARA BARAT
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
             href="https://sobatdukcapil.tangerangkota.go.id/home/informasi/persyaratan"
             target="_blank"
           >
-            SobatDukcapil
+            SOBATDUKCAPIL
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
             href="https://play.google.com/store/apps/details?id=id.go.tangerangkota.tangeranglive&pcampaignid=web_share"
           >
-            Aplikasi Tanggarang live
+            APLIKASI TANGGERANG LIVE
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
             href="https://play.google.com/store/apps/details?id=go.id.tangerangkota.tangerangayo&pcampaignid=web_share"
+            target="_blank"
           >
-            Aplikasi Tanggerang Ayo
+            APLIKASI TANGGERANG AYO
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
             href="https://play.google.com/store/apps/details?id=gov.dukcapil.mobile_id&pcampaignid=web_share"
+            target="_blank"
           >
-            Aplikasi Identitas Kependudukan Digital
+            APLIKASI IDENTITAS KEPENDUDUKAN DIGITAL
           </Button>
           <Button
-            className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white  text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl mb-4"
+            className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
+            href="https://drive.google.com/file/d/1--UzovxsbHqzayUaYy8sbr_vx1ImdO_f/view?usp=drive_link"
+            target="_blank"
+          >
+            PERSYARATAN PELAYANAN
+          </Button>
+          <Button
+            className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
+            href="https://drive.google.com/drive/folders/1-FioOaOCNdJ1JbI_gEISqrqOokARj8Xm"
+            target="_blank"
+          >
+            ALUR PELAYANAN PEMBUATAN AHLI WARIS
+          </Button>
+          <Button
+            className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl mb-4"
             href="https://docs.google.com/forms/d/1k-zbF4wtr3LYFzwEm3rmAeFJZdon7irkR3eRCzX1pcY/viewform?edit_requested=true"
             target="_blank"
           >
-            Survey Kepuasan Masyarakat
+            SURVEY KEPUASAN MASYARAKAT
           </Button>
         </div>
       </div>
