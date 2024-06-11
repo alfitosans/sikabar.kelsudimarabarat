@@ -42,7 +42,7 @@ function App() {
             href="https://sites.google.com/view/kelurahansudimarabarat/profil/tugas-dan-fungsi"
             target="_blank"
           >
-            KELUARAHAN SUDIMARA BARAT
+            KELURAHAN SUDIMARA BARAT
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
