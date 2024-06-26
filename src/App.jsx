@@ -15,12 +15,12 @@ function App() {
               className="rounded items-center "
               src={Logo}
               width={200}
-              alt="logo-kelurahan-sudimara-barat"
+              alt="Bila"
             />
           </div>
           <div className="flex items-center justify-center h-full">
             <h1 className="text-4xl font-bold text-center my-3">
-              SISTEM INFORMASI KELURAHAN SUDIMARA BARAT
+              SISTEM INFORMASI KELUAHAN SUDIMARA BARAT
             </h1>
           </div>
           <Button
@@ -42,7 +42,7 @@ function App() {
             href="https://sites.google.com/view/kelurahansudimarabarat/profil/tugas-dan-fungsi"
             target="_blank"
           >
-            KELURAHAN SUDIMARA BARAT
+            KELUARAHAN SUDIMARA BARAT
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
@@ -54,6 +54,7 @@ function App() {
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
             href="https://play.google.com/store/apps/details?id=id.go.tangerangkota.tangeranglive&pcampaignid=web_share"
+            target="_blank"
           >
             APLIKASI TANGGERANG LIVE
           </Button>
