@@ -20,7 +20,7 @@ function App() {
           </div>
           <div className="flex items-center justify-center h-full">
             <h1 className="text-4xl font-bold text-center my-3">
-              SISTEM INFORMASI KELUAHAN SUDIMARA BARAT
+              SISTEM INFORMASI KELURAHAN SUDIMARA BARAT
             </h1>
           </div>
           <Button
