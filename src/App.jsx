@@ -20,7 +20,7 @@ function App() {
           </div>
           <div className="flex items-center justify-center h-full">
             <h1 className="text-4xl font-bold text-center my-3">
-              SISTEM INFORMASI KELURAHAN SUDIMARA TERBARU
+              SISTEM INFORMASI KELURAHAN SUDIMARA BARAT
             </h1>
           </div>
           <Button
@@ -28,7 +28,7 @@ function App() {
             href="https://drive.google.com/drive/folders/14c1pdgF3oouOTF9XLE8QALKTqRc9-ndH"
             target="_blank"
           >
-           PROFIL KELURAHAN SUDIMARA BARAT 2024
+           PROFIL KELURAHAN SUDIMARA BARAT TERBARU
           </Button>
           <Button
             className="bg-slate-100  hover:bg-orange-950 hover:text-white hover:border-white text-amber-950 font-bold py-2 px-4 rounded-2xl shadow-2xl"
